@@ -5,4 +5,4 @@
 
 ## This project was conceived by the [frontendmentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). all credits to them
 
-- HTML, CSS & JS Only.
+- HTML, CSS & JS using [adviceapi](https://api.adviceslip.com/).
